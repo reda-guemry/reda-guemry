@@ -60,5 +60,5 @@
 ---
 
 ## 📫 Contact
-- [cite_start]💼 LinkedIn : [https://www.linkedin.com/in/reda-guemry](https://www.linkedin.com/in/reda-guemry) [cite: 6]
-- [cite_start]📧 Email : [guemryreda@gmail.com](mailto:guemryreda@gmail.com) [cite: 4]
+- 💼 LinkedIn : [https://www.linkedin.com/in/reda-guemry](https://www.linkedin.com/in/reda-guemry) 
+- 📧 Email : [guemryreda@gmail.com](mailto:guemryreda@gmail.com) 
