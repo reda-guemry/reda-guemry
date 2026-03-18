@@ -1,16 +1,52 @@
-## Hi there 👋
+# 👋 Hi, I'm Reda Guemry
+### Full Stack Developer | PHP/Laravel & React Specialist
 
-<!--
-**reda-guemry/reda-guemry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate **Full Stack Developer** currently honing my skills at **YouCode (UM6P)**. I specialize in building robust web applications, secure APIs, and real-time solutions using WebSockets.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Technical Skills
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | PHP, JavaScript (ES6), C |
+| **Frameworks** | Laravel, React, Livewire, TailwindCSS |
+| **Databases** | MySQL, PostgreSQL |
+| **Architecture** | MVC, Repository, Service, Singleton, DAO, Factory |
+| **DevOps & Tools** | Docker, Git, GitHub Actions, REST API, UML, Figma |
+| **Project Mgmt** | Agile (Scrum), Trello, Jira |
+
+---
+
+### 🛠️ Featured Projects
+
+#### 🏠 [Fair-Nest](https://github.com/reda-guemry) - Roommate Management Platform
+* **Description:** Web app for managing shared spaces, member tracking, and expense splitting with automated reimbursement calculations.
+* **Tech Stack:** Laravel, Livewire, PostgreSQL, WebSockets (Reverb), Docker.
+* **Key Feature:** Real-time chat and admin dashboard.
+
+#### 💼 [JobMutch](https://github.com/reda-guemry) - Recruitment & Networking Platform
+* **Description:** A professional networking platform connecting recruiters and candidates.
+* **Tech Stack:** Laravel, Livewire, Spatie (Permissions), WebSockets.
+* **Key Feature:** Advanced permission management and dynamic interfaces.
+
+#### ♣️ [Club Edge](https://github.com/reda-guemry) - Club & Event Management
+* **Description:** Collaborative project for managing clubs and events with a secure MVC architecture.
+* **Tech Stack:** PHP 8 (OOP), PostgreSQL, Design Patterns.
+* **Security:** Protected against XSS, CSRF, and SQL Injection.
+
+---
+
+### 📜 Certifications & Education
+* **Full Stack Developer Diploma** (In progress) - YouCode (UM6P) Safi [2025-2027]
+* **The Complete PHP MySQL PDO Course** - Udemy (2026)
+
+---
+
+### 📫 Connect with me:
+* **Email:** [guemryreda@gmail.com](mailto:guemryreda@gmail.com)
+* **LinkedIn:** [Reda Guemry](https://www.linkedin.com/in/reda-guemry)
+* **Location:** Morocco 🇲🇦
+
+---
+*“Passionate about building scalable solutions and solving complex technical challenges.”*
