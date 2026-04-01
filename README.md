@@ -58,9 +58,9 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=reda-guemry&theme=radical&hide_border=true" alt="GitHub Streak" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=reda-guemry&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=reda-guemry&show_icons=true&theme=radical&hide_border=true&v=1" alt="GitHub Stats" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reda-guemry&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reda-guemry&layout=compact&theme=radical&hide_border=true&v=1" alt="Top Langs" />
 </div>
 
 ---
