@@ -1,82 +1,152 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=36&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Reda+Guemry;Full+Stack+Web+Developer;" />
-</h1>
+<div align="center">
 
-<img align="right" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXN6Znd4ZzR6Znd4ZzR6Znd4ZzR6Znd4ZzR6Znd4ZzR6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZAmVpZAnZpZz0x/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Reda+Guemry;Full+Stack+Web+Developer;Laravel+%7C+React+%7C+PHP;Building+scalable+web+apps" alt="Typing SVG" />
 
-### 🚀 Développeur Web Full Stack
-[cite_start]🎓 Étudiant en développement web chez **YouCode (UM6P)** [cite: 36]
+<br/>
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reda-guemry)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/reda-guemry)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guemryreda@gmail.com)
 
-## 🛠️ Tech Stack
-
-### 💻 Langages
-[cite_start]![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) [cite: 10]
-[cite_start]![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) [cite: 10]
-[cite_start]![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) [cite: 10]
-[cite_start]![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) [cite: 10]
+</div>
 
 ---
 
-### ⚙️ Backend & Architecture
-[cite_start]![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) [cite: 20]
-[cite_start]![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) [cite: 20]
-[cite_start]![MVC](https://img.shields.io/badge/MVC-Architecture-orange?style=for-the-badge) [cite: 33]
-[cite_start]![REST API](https://img.shields.io/badge/REST_API-Backend-red?style=for-the-badge) [cite: 22]
+##  About Me
+
+```php
+<?php
+
+class RedaGuemry extends FullStackDeveloper
+{
+    public string $school    = "YouCode · UM6P — Safi, Maroc (2025–2027)";
+    public string $location  = "Maroc 🇲🇦";
+    public array  $languages = ["Arabic (native)", "French (intermediate)", "English (intermediate)"];
+    public array  $interests = ["Artificial Intelligence 🤖", "Football ⚽"];
+
+    public function currentFocus(): string
+    {
+        return "Building full-stack web apps with Laravel, React & real-time features.";
+    }
+}
+```
 
 ---
+
+## Tech Stack
+
+### 💻 Languages
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+### ⚙️ Frameworks & Libraries
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ### 🗄️ Databases
-[cite_start]![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) [cite: 12]
-[cite_start]![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) [cite: 12]
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🧠 Architecture & Patterns
+![MVC](https://img.shields.io/badge/MVC-Architecture-orange?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST_API-Backend-red?style=for-the-badge)
+![Design Patterns](https://img.shields.io/badge/Patterns-Repository_·_Service_·_Factory_·_DAO-blue?style=for-the-badge)
+![WebSockets](https://img.shields.io/badge/Real--Time-WebSockets_·_Reverb-lightgrey?style=for-the-badge)
+
+### 🧰 Tools & Workflow
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-Scrum-lightgrey?style=for-the-badge)
 
 ---
 
-### 🧠 Design Patterns & Tools
-[cite_start]![Design Patterns](https://img.shields.io/badge/Design_Patterns-Repository_&_Service-blue?style=for-the-badge) [cite: 24]
-[cite_start]![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) [cite: 22]
-[cite_start]![WebSockets](https://img.shields.io/badge/Real--Time-Reverb-lightgrey?style=for-the-badge) [cite: 29]
+## Academic Projects
+
+<details>
+<summary><b>🏠 Fair-Nest — Colocation Management Platform</b></summary>
+<br/>
+
+> Full-featured web app to manage shared housing: create shared spaces, manage members, track expenses with automatic reimbursement calculation, real-time chat, and an admin dashboard.
+
+**Stack:** `Laravel` · `Livewire` · `TailwindCSS` · `PostgreSQL` · `Docker` · `WebSockets (Reverb)` · `Git`
+
+</details>
+
+<details>
+<summary><b>💼 JobMutch — Recruitment & Networking Platform</b></summary>
+<br/>
+
+> Web application connecting recruiters and candidates with a professional social network, advanced role/permission management via Spatie, dynamic interfaces with Livewire, and real-time chat powered by Laravel Reverb (WebSockets).
+
+**Stack:** `Laravel` · `Livewire` · `TailwindCSS` · `PostgreSQL` · `WebSockets (Reverb)`
+
+</details>
+
+<details>
+<summary><b>🎯 Club Edge — Club & Event Management Platform (Collaborative)</b></summary>
+<br/>
+
+> Web application to manage clubs and events with an admin interface and user module. Object-oriented PHP backend (MVC) with PostgreSQL, Design Patterns (Repository, Service), and security hardening against XSS, CSRF, and SQL Injection.
+
+**Stack:** `PHP 8 (OOP)` · `MVC Architecture` · `PostgreSQL` · `Design Patterns` · `Git` · `Scrum`
+
+</details>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <a href="https://github.com/reda-guemry">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=reda-guemry&theme=radical" alt="Reda's GitHub Contribution"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/reda-guemry">
-    <img alt="Reda's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=reda-guemry&show_icons=true&count_private=true&theme=react&border_color=2F81F7&bg_color=0D1117&title_color=2F81F7&icon_color=F8D866" height="192px" width="49.5%"/>
-  </a>
-  <a href="https://github.com/reda-guemry">
-    <img alt="Reda's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=reda-guemry&langs_count=8&layout=compact&theme=react&border_color=2F81F7&bg_color=0D1117&title_color=2F81F7&icon_color=F8D866" height="192px" width="49.5%"/>
-  </a>
-</p>
-
-![Reda's Graph](https://github-readme-activity-graph.vercel.app/graph?username=reda-guemry&custom_title=Reda's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=2F81F7&line=2F81F7&point=2F81F7&area_color=0D1117&title_color=FFFFFF&area=true)
-
----
-
-## 🤝 Connect with me
 <div align="center">
-  <a href="mailto:guemryreda@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  [cite_start]</a> [cite: 3]
-  <a href="https://www.linkedin.com/in/reda-guemry" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a> [cite: 7]
-  <a href="https://github.com/reda-guemry" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a> [cite: 4]
+
+<img src="https://github-readme-stats.vercel.app/api?username=reda-guemry&show_icons=true&count_private=true&theme=react&border_color=2F81F7&bg_color=0D1117&title_color=2F81F7&icon_color=F8D866" height="180px" alt="Reda's GitHub Stats"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reda-guemry&langs_count=8&layout=compact&theme=react&border_color=2F81F7&bg_color=0D1117&title_color=2F81F7&icon_color=F8D866" height="180px" alt="Top Languages"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com/?user=reda-guemry&theme=radical&hide_border=true" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=reda-guemry&custom_title=Reda's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=2F81F7&line=2F81F7&point=2F81F7&area_color=0D1117&title_color=FFFFFF&area=true" alt="Activity Graph"/>
+
 </div>
 
-<br />
+---
+
+## 🎓 Education & Certifications
+
+| 📚 | Details |
+|---|---|
+| 🏫 **YouCode · UM6P** | Full Stack Developer Program — Safi, Maroc *(2025 – 2027, in progress)* |
+| 🏅 **Udemy** | The Complete PHP MySQL PDO Course *(2026)* |
+| 🏅 **365 Data Science** | Introduction to Python *(2026)* |
 
 ---
-<p align="center">
-  <i>"Building scalable applications with passion and precision."</i>
-</p>
+
+## 🌍 Languages
+
+| Language | Level |
+|---|---|
+| 🇲🇦 Arabic | Native |
+| 🇬🇧 English | Intermediate |
+| 🇫🇷 French | Intermediate |
+
+---
+
+<div align="center">
+
+*"Building scalable applications with passion and precision."*
+
+![Profile Views](https://komarev.com/ghpvc/?username=reda-guemry&color=2F81F7&style=flat-square)
+
+</div>/
