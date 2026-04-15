@@ -141,4 +141,4 @@ class RedaGuemry extends FullStackDeveloper
 
 ![Profile Views](https://komarev.com/ghpvc/?username=reda-guemry&color=2F81F7&style=flat-square)
 
-</div>/
+</div>
