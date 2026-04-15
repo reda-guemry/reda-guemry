@@ -115,26 +115,6 @@ class RedaGuemry extends FullStackDeveloper
 
 ---
 
-## 🎓 Education & Certifications
-
-| 📚 | Details |
-|---|---|
-| 🏫 **YouCode · UM6P** | Full Stack Developer Program — Safi, Maroc *(2025 – 2027, in progress)* |
-| 🏅 **Udemy** | The Complete PHP MySQL PDO Course *(2026)* |
-| 🏅 **365 Data Science** | Introduction to Python *(2026)* |
-
----
-
-## 🌍 Languages
-
-| Language | Level |
-|---|---|
-| 🇲🇦 Arabic | Native |
-| 🇬🇧 English | Intermediate |
-| 🇫🇷 French | Intermediate |
-
----
-
 <div align="center">
 
 *"Building scalable applications with passion and precision."*
