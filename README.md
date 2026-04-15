@@ -105,14 +105,6 @@ class RedaGuemry extends FullStackDeveloper
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=reda-guemry&show_icons=true&count_private=true&theme=react&border_color=2F81F7&bg_color=0D1117&title_color=2F81F7&icon_color=F8D866" height="180px" alt="Reda's GitHub Stats"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reda-guemry&langs_count=8&layout=compact&theme=react&border_color=2F81F7&bg_color=0D1117&title_color=2F81F7&icon_color=F8D866" height="180px" alt="Top Languages"/>
-
-<br/><br/>
-
 <img src="https://streak-stats.demolab.com/?user=reda-guemry&theme=radical&hide_border=true" alt="GitHub Streak"/>
 
 <br/><br/>
