@@ -103,7 +103,7 @@ class RedaGuemry extends FullStackDeveloper
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <img src="https://streak-stats.demolab.com/?user=reda-guemry&theme=radical&hide_border=true" alt="GitHub Streak"/>
 
