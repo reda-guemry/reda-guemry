@@ -20,9 +20,9 @@
 class RedaGuemry extends FullStackDeveloper
 {
     public string $school    = "YouCode · UM6P — Safi, Maroc (2025–2027)";
-    public string $location  = "Maroc 🇲🇦";
+    public string $location  = "Maroc";
     public array  $languages = ["Arabic (native)", "French (intermediate)", "English (intermediate)"];
-    public array  $interests = ["Artificial Intelligence 🤖", "Football ⚽"];
+    public array  $interests = ["Artificial Intelligence", "Football"];
 
     public function currentFocus(): string
     {
