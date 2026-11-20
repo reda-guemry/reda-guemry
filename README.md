@@ -1,124 +1,170 @@
+<!-- ───────────── HEADER ───────────── -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Reda+Guemry;Full+Stack+Web+Developer;Laravel+%7C+React+%7C+PHP;Building+scalable+web+apps" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:2F81F7,100:7C3AED&text=Reda%20Guemry&fontColor=FFFFFF&fontSize=58&fontAlignY=38&desc=Full%20Stack%20Developer%20%C3%97%20AI%20Developer&descAlignY=60&descSize=20" alt="Reda Guemry banner" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=2F81F7&center=true&vCenter=true&width=640&lines=Laravel+%7C+React+%7C+FastAPI+%7C+Flask;I+build+real-time+web+apps;I+train+and+integrate+ML+models;Learning+AI+and+Claude+development" alt="Typing SVG" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reda-guemry)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/reda-guemry)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guemryreda@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Reda_Guemry-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reda-guemry/)
+[![Email](https://img.shields.io/badge/Email-guemryreda@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:guemryreda@gmail.com)
+![Location](https://img.shields.io/badge/Morocco-Safi-16A34A?style=flat-square&logo=googlemaps&logoColor=white)
+![Status](https://img.shields.io/badge/Open_to-Internships_%26_Collabs-7C3AED?style=flat-square)
 
 </div>
 
----
+<br/>
 
-##  About Me
+##  About me
 
-```php
-<?php
+I'm a **first-year student at [YouCode](https://youcode.ma) (UM6P), Safi**, studying Full Stack Web Development with a specialization in **AI development**. I build complete web apps (secure APIs, real-time features, clean interfaces) and I'm moving deeper into **machine learning and AI engineering**.
 
-class RedaGuemry extends FullStackDeveloper
-{
-    public string $school    = "YouCode · UM6P — Safi, Maroc (2025–2027)";
-    public string $location  = "Maroc";
-    public array  $languages = ["Arabic (native)", "French (intermediate)", "English (intermediate)"];
-    public array  $interests = ["Artificial Intelligence", "Football"];
-
-    public function currentFocus(): string
-    {
-        return "Building full-stack web apps with Laravel, React & real-time features.";
-    }
-}
+```ts
+const reda = {
+  role: "Full Stack Web & AI Developer",
+  school: "YouCode · UM6P — Safi (2025–2027)",
+  languages: ["Arabic (native)", "French", "English"],
+  building: "Secure, real-time full-stack apps",
+  learning: ["Artificial Intelligence", "Claude development"],
+  interests: ["AI", "Football"],
+  mentoring: "Technovation Girls (2026 – now)",
+} as const;
 ```
 
----
-
-## Tech Stack
-
-### 💻 Languages
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-### ⚙️ Frameworks & Libraries
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🧠 Architecture & Patterns
-![MVC](https://img.shields.io/badge/MVC-Architecture-orange?style=for-the-badge)
-![REST API](https://img.shields.io/badge/REST_API-Backend-red?style=for-the-badge)
-![Design Patterns](https://img.shields.io/badge/Patterns-Repository_·_Service_·_Factory_·_DAO-blue?style=for-the-badge)
-![WebSockets](https://img.shields.io/badge/Real--Time-WebSockets_·_Reverb-lightgrey?style=for-the-badge)
-
-### 🧰 Tools & Workflow
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile-Scrum-lightgrey?style=for-the-badge)
-
----
-
-## Academic Projects
-
-<details>
-<summary><b>🏠 Fair-Nest — Colocation Management Platform</b></summary>
 <br/>
 
-> Full-featured web app to manage shared housing: create shared spaces, manage members, track expenses with automatic reimbursement calculation, real-time chat, and an admin dashboard.
+## What I'm up to
 
-**Stack:** `Laravel` · `Livewire` · `TailwindCSS` · `PostgreSQL` · `Docker` · `WebSockets (Reverb)` · `Git`
+- 🧠 Learning **AI** and **Claude development**
+- ⚙️ Building full-stack apps with **Laravel, React, FastAPI and Flask**
+- 🔐 Working on **JWT / RBAC** auth and **WebSocket** real-time features
+- 🤝 Mentoring teams of young girls building mobile apps at **Technovation Girls**
 
-</details>
-
-<details>
-<summary><b>💼 JobMutch — Recruitment & Networking Platform</b></summary>
 <br/>
 
-> Web application connecting recruiters and candidates with a professional social network, advanced role/permission management via Spatie, dynamic interfaces with Livewire, and real-time chat powered by Laravel Reverb (WebSockets).
-
-**Stack:** `Laravel` · `Livewire` · `TailwindCSS` · `PostgreSQL` · `WebSockets (Reverb)`
-
-</details>
-
-<details>
-<summary><b>🎯 Club Edge — Club & Event Management Platform (Collaborative)</b></summary>
-<br/>
-
-> Web application to manage clubs and events with an admin interface and user module. Object-oriented PHP backend (MVC) with PostgreSQL, Design Patterns (Repository, Service), and security hardening against XSS, CSRF, and SQL Injection.
-
-**Stack:** `PHP 8 (OOP)` · `MVC Architecture` · `PostgreSQL` · `Design Patterns` · `Git` · `Scrum`
-
-</details>
-
----
-
-## GitHub Stats
-
-<img src="https://streak-stats.demolab.com/?user=reda-guemry&theme=radical&hide_border=true" alt="GitHub Streak"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=reda-guemry&custom_title=Reda's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=2F81F7&line=2F81F7&point=2F81F7&area_color=0D1117&title_color=FFFFFF&area=true" alt="Activity Graph"/>
-
-</div>
-
----
+## Tech stack
 
 <div align="center">
 
-*"Building scalable applications with passion and precision."*
+**Languages**
 
-![Profile Views](https://komarev.com/ghpvc/?username=reda-guemry&color=2F81F7&style=flat-square)
+<img src="https://skillicons.dev/icons?i=js,ts,php,py,c&perline=10" alt="languages" />
+
+**Frameworks & Libraries**
+
+<img src="https://skillicons.dev/icons?i=laravel,react,nodejs,flask,fastapi,tailwind&perline=10" alt="frameworks" />
+
+**Databases**
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis&perline=10" alt="databases" />
+
+**AI / Data**
+
+<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,pandas,numpy&perline=10" alt="ai and data" />
+
+**Tools & DevOps**
+
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,linux,postman,figma,jira,n8n&perline=10" alt="tools" />
+
+</div>
+
+<details>
+<summary><b>Full skills list</b></summary>
+<br/>
+
+| Area | Skills |
+|---|---|
+| **ML** | Scikit-learn, XGBoost, supervised & unsupervised learning, model training, evaluation & optimization |
+| **Deep Learning** | TensorFlow, neural networks, deep neural networks |
+| **Data** | Pandas, NumPy, Matplotlib, Seaborn, EDA, preprocessing, visualization |
+| **MLOps** | Apache Airflow, MLflow, data pipelines, Streamlit |
+| **Architecture & Security** | REST API architecture, JWT, OAuth2, RBAC, MVC, Repository / Service / Factory / DAO |
+| **Real-time** | WebSockets, Laravel Reverb |
+| **Maps** | MapLibre GL, Turf.js |
+| **Method** | Agile, Scrum |
+
+</details>
+
+<br/>
+
+## Featured projects
+
+### 🛠️ [MAINTORA](https://github.com/reda-guemry/MAINTORA): Maintenance Management System (CMMS)
+
+Decoupled full-stack app for managing maintenance operations.
+
+- Preventive maintenance plans, task assignment, interactive checklists for technicians
+- JWT auth (stateless + refresh tokens) and advanced role/permission management
+- Map-based equipment tracking with **MapLibre GL / Turf.js** and real-time anomaly monitoring
+
+`React` `TypeScript` `Tailwind CSS` `Laravel` `PostgreSQL` `JWT` `MapLibre GL` `Docker` `PHPUnit`
+
+---
+
+### TalentAcquisition: Applicant Tracking System (ATS)
+
+Built at **Wemanity Reply** to centralize the recruitment process.
+
+- Interactive Kanban board (JavaScript/AJAX drag & drop) and an online CV viewer
+- Annotated a **600-entry dataset in Label Studio** to train a job offer–candidate matching model
+
+`Python` `Flask` `Jinja2` `PostgreSQL` `Tailwind CSS` `JavaScript` `Label Studio`
+
+---
+
+<details>
+<summary><b> Academic projects</b></summary>
+<br/>
+
+| Project | What it does | Stack |
+|---|---|---|
+|  **Fair-Nest** | Shared-housing platform: members, expenses with automatic reimbursement calculation, real-time chat, admin dashboard | Laravel · Livewire · TailwindCSS · PostgreSQL · Docker · Reverb |
+|  **JobMutch** | Recruiter/candidate platform with a professional social network, Spatie roles & permissions, real-time chat | Laravel · Livewire · TailwindCSS · PostgreSQL · Reverb |
+|  **Club Edge** | Club & event management (team project): OOP PHP MVC, Repository/Service patterns, protection against XSS, CSRF and SQL injection | PHP 8 · MVC · PostgreSQL · Git · Scrum |
+
+</details>
+
+<br/>
+
+##  Experience
+
+| Period | Where | Role |
+|---|---|---|
+| **May – Jul 2026** | Centre d'Ingénierie et d'Innovation Pédagogique – UM5R, Rabat | Full Stack Web & AI Developer Intern (hybrid): FastAPI, React/TypeScript, WebSockets, JWT/RBAC, PostgreSQL, ML model integration |
+| **May – Sep 2026** | Wemanity Reply, Casablanca | Full Stack Web Developer Intern: TalentAcquisition ATS, Kanban pipeline, dataset annotation |
+
+<br/>
+
+## Education & certifications
+
+- **YouCode – UM6P**, Safi: Full Stack Web Development & AI (2025 – 2027, in progress)
+- **Global Consumer Intelligence (GCI) Data Science**: The University of Tokyo (2026)
+
+<br/>
+
+## GitHub stats
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=reda-guemry&theme=radical&hide_border=true" alt="GitHub streak" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=reda-guemry&bg_color=0D1117&color=2F81F7&line=2F81F7&point=FFFFFF&area=true&hide_border=true" alt="Activity graph" />
+
+</div>
+
+<br/>
+
+## Let's connect
+
+I'm open to internships, collaborations and AI/web projects. Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/reda-guemry/) or at **guemryreda@gmail.com**.
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:7C3AED,50:2F81F7,100:0F172A" alt="footer" />
+
+*"Building scalable applications with passion and precision."*
 
 </div>
